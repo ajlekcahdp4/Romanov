@@ -4,6 +4,7 @@
 $ ssh-keygen -t rsa -C "example_email@domen.com"
 ```
 
+
 * Далее появится сообщение, свидетествующиее о создании SSH ключа.
 ```
 > Generating public/privat rsa key pair
