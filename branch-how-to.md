@@ -16,5 +16,5 @@ $ git checkout "branch_name"
 
 Для отправки ветки на GitHub необходимо ввести команду
 ```
-$ git push "remote_rep_name" "branch_name"
+$ git push "remote_rep_name" "branch_name". 
 ```
